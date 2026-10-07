@@ -1,0 +1,131 @@
+product_name,product_key,category,subcategory,cost,total_orders,total_sales,lifespan,recency_in_months,product_segemnt,last_sales_date,total_customers,total_quantity,avg_selling_price,avg_order_revenue,avg_monthly_revenue,est_cost,est_profit,est_margin_pct,portfolio_quadrant
+All-Purpose Bike Stand,281,Accessories,Bike Stands,59,249,39591,13,152,mid-range,2014-01-28,243,249,159.0,159,3045,14691,24900,62.893081761006286,Lower Revenue / High Margin
+AWC Logo Cap,166,Clothing,Caps,7,2190,19710,13,152,mid-range,2014-01-28,2132,2190,9.0,9,1516,15330,4380,22.22222222222222,Lower Revenue / Lower Margin
+Bike Wash - Dissolver,168,Accessories,Cleaners,3,908,7272,12,152,low-performer,2014-01-28,875,909,8.0,8,606,2727,4545,62.5,Lower Revenue / High Margin
+Classic Vest- L,292,Clothing,Vests,24,195,12480,12,152,mid-range,2014-01-28,195,195,64.0,64,1040,4680,7800,62.5,Lower Revenue / High Margin
+Classic Vest- M,293,Clothing,Vests,24,199,12736,12,152,mid-range,2014-01-27,199,199,64.0,64,1061,4776,7960,62.5,Lower Revenue / High Margin
+Classic Vest- S,294,Clothing,Vests,24,168,10944,13,152,mid-range,2014-01-28,168,171,64.0,65,841,4104,6840,62.5,Lower Revenue / High Margin
+Fender Set - Mountain,174,Accessories,Fenders,8,2121,46662,13,152,mid-range,2014-01-28,2110,2121,22.0,22,3589,16968,29694,63.63636363636363,Lower Revenue / High Margin
+Half-Finger Gloves- L,233,Clothing,Gloves,9,443,10632,13,152,mid-range,2014-01-28,437,443,24.0,24,817,3987,6645,62.5,Lower Revenue / High Margin
+Half-Finger Gloves- M,234,Clothing,Gloves,9,499,11976,13,152,mid-range,2014-01-28,488,499,24.0,24,921,4491,7485,62.5,Lower Revenue / High Margin
+Half-Finger Gloves- S,235,Clothing,Gloves,9,488,11712,13,152,mid-range,2014-01-25,479,488,24.0,24,900,4392,7320,62.5,Lower Revenue / High Margin
+Hitch Rack - 4-Bike,260,Accessories,Bike Racks,45,328,39360,12,152,mid-range,2014-01-28,325,328,120.0,120,3280,14760,24600,62.5,Lower Revenue / High Margin
+HL Mountain Tire,284,Accessories,Tires and Tubes,13,1396,48895,13,152,mid-range,2014-01-28,1396,1397,35.0,35,3761,18161,30734,62.857142857142854,Lower Revenue / High Margin
+HL Road Tire,287,Accessories,Tires and Tubes,12,858,28314,13,152,mid-range,2014-01-28,820,858,33.0,33,2178,10296,18018,63.63636363636363,Lower Revenue / High Margin
+Hydration Pack - 70 oz.,247,Accessories,Hydration Packs,21,733,40315,13,152,mid-range,2014-01-28,719,733,55.0,55,3101,15393,24922,61.81818181818182,Lower Revenue / High Margin
+LL Mountain Tire,282,Accessories,Tires and Tubes,9,862,21600,12,152,mid-range,2014-01-28,830,864,25.0,25,1800,7776,13824,64.0,Lower Revenue / High Margin
+LL Road Tire,285,Accessories,Tires and Tubes,8,1044,21924,13,152,mid-range,2014-01-28,1030,1044,21.0,21,1686,8352,13572,61.904761904761905,Lower Revenue / High Margin
+Long-Sleeve Logo Jersey- L,248,Clothing,Jerseys,38,452,22650,13,152,mid-range,2014-01-28,449,453,50.0,50,1742,17214,5436,24.0,Lower Revenue / Lower Margin
+Long-Sleeve Logo Jersey- M,249,Clothing,Jerseys,38,442,22100,13,152,mid-range,2014-01-28,436,442,50.0,50,1700,16796,5304,24.0,Lower Revenue / Lower Margin
+Long-Sleeve Logo Jersey- S,250,Clothing,Jerseys,38,429,21450,12,152,mid-range,2014-01-28,426,429,50.0,50,1787,16302,5148,24.0,Lower Revenue / Lower Margin
+Long-Sleeve Logo Jersey- XL,251,Clothing,Jerseys,38,413,20700,12,152,mid-range,2014-01-28,409,414,50.0,50,1725,15732,4968,24.0,Lower Revenue / Lower Margin
+ML Mountain Tire,283,Accessories,Tires and Tubes,11,1161,34830,13,152,mid-range,2014-01-28,1161,1161,30.0,30,2679,12771,22059,63.333333333333336,Lower Revenue / High Margin
+ML Road Tire,286,Accessories,Tires and Tubes,9,926,23150,13,152,mid-range,2014-01-28,891,926,25.0,25,1780,8334,14816,64.0,Lower Revenue / High Margin
+Mountain Bottle Cage,104,Accessories,Bottles and Cages,4,2025,20340,13,152,mid-range,2014-01-28,2004,2034,10.0,10,1564,8136,12204,60.0,Lower Revenue / High Margin
+Mountain Tire Tube,289,Accessories,Tires and Tubes,2,3095,15480,13,152,mid-range,2014-01-28,2960,3096,5.0,5,1190,6192,9288,60.0,Lower Revenue / High Margin
+Mountain-100 Black- 38,3,Bikes,Mountain Bikes,1898,49,165375,11,177,high-performer,2011-12-27,49,49,3375.0,3375,15034,93002,72373,43.762962962962966,High Revenue / High Margin
+Mountain-100 Black- 42,4,Bikes,Mountain Bikes,1898,45,151875,11,177,high-performer,2011-12-27,45,45,3375.0,3375,13806,85410,66465,43.762962962962966,High Revenue / High Margin
+Mountain-100 Black- 44,5,Bikes,Mountain Bikes,1898,60,202500,11,177,high-performer,2011-12-21,60,60,3375.0,3375,18409,113880,88620,43.762962962962966,High Revenue / High Margin
+Mountain-100 Black- 48,6,Bikes,Mountain Bikes,1898,57,192375,12,177,high-performer,2011-12-26,57,57,3375.0,3375,16031,108186,84189,43.762962962962966,High Revenue / High Margin
+Mountain-100 Silver- 38,7,Bikes,Mountain Bikes,1912,58,197200,12,177,high-performer,2011-12-22,58,58,3400.0,3400,16433,110896,86304,43.76470588235294,High Revenue / High Margin
+Mountain-100 Silver- 42,8,Bikes,Mountain Bikes,1912,42,142800,11,177,high-performer,2011-12-28,42,42,3400.0,3400,12981,80304,62496,43.76470588235294,High Revenue / High Margin
+Mountain-100 Silver- 44,9,Bikes,Mountain Bikes,1912,49,166600,12,177,high-performer,2011-12-12,49,49,3400.0,3400,13883,93688,72912,43.76470588235294,High Revenue / High Margin
+Mountain-100 Silver- 48,10,Bikes,Mountain Bikes,1912,36,122400,11,177,high-performer,2011-12-23,36,36,3400.0,3400,11127,68832,53568,43.76470588235294,High Revenue / High Margin
+Mountain-200 Black- 38,120,Bikes,Mountain Bikes,1252,582,1294854,24,153,high-performer,2013-12-28,565,582,2224.8,2224,53952,728664,566190,43.72616526650881,High Revenue / High Margin
+Mountain-200 Black- 42,121,Bikes,Mountain Bikes,1252,614,1363128,23,153,high-performer,2013-12-28,604,614,2220.1,2220,59266,768728,594400,43.60558949709785,High Revenue / High Margin
+Mountain-200 Black- 46,122,Bikes,Mountain Bikes,1252,620,1373454,24,153,high-performer,2013-12-27,600,620,2215.2,2215,57227,776240,597214,43.48263574899487,High Revenue / High Margin
+Mountain-200 Silver- 38,123,Bikes,Mountain Bikes,1266,596,1339394,23,153,high-performer,2013-12-28,583,596,2247.3,2247,58234,754536,584858,43.665866802449465,High Revenue / High Margin
+Mountain-200 Silver- 42,124,Bikes,Mountain Bikes,1266,560,1257368,24,153,high-performer,2013-12-28,547,560,2245.3,2245,52390,708960,548408,43.615552487418164,High Revenue / High Margin
+Mountain-200 Silver- 46,125,Bikes,Mountain Bikes,1266,580,1301029,23,153,high-performer,2013-12-28,567,580,2243.2,2243,56566,734280,566749,43.56159624420363,High Revenue / High Margin
+Mountain-400-W Silver- 38,116,Bikes,Mountain Bikes,420,148,113812,11,153,high-performer,2013-12-27,148,148,769.0,769,10346,62160,51652,45.38361508452536,High Revenue / High Margin
+Mountain-400-W Silver- 40,117,Bikes,Mountain Bikes,420,128,98432,12,153,high-performer,2013-12-24,128,128,769.0,769,8202,53760,44672,45.38361508452536,High Revenue / High Margin
+Mountain-400-W Silver- 42,118,Bikes,Mountain Bikes,420,129,99201,11,153,high-performer,2013-12-27,129,129,769.0,769,9018,54180,45021,45.38361508452536,High Revenue / High Margin
+Mountain-400-W Silver- 46,119,Bikes,Mountain Bikes,420,138,106122,11,153,high-performer,2013-12-24,138,138,769.0,769,9647,57960,48162,45.38361508452536,High Revenue / High Margin
+Mountain-500 Black- 40,106,Bikes,Mountain Bikes,295,48,25920,12,153,mid-range,2013-12-13,48,48,540.0,540,2160,14160,11760,45.370370370370374,Lower Revenue / High Margin
+Mountain-500 Black- 42,107,Bikes,Mountain Bikes,295,49,26460,11,153,mid-range,2013-12-25,49,49,540.0,540,2405,14455,12005,45.370370370370374,Lower Revenue / High Margin
+Mountain-500 Black- 44,108,Bikes,Mountain Bikes,295,58,31320,11,153,mid-range,2013-12-25,58,58,540.0,540,2847,17110,14210,45.370370370370374,Lower Revenue / High Margin
+Mountain-500 Black- 48,109,Bikes,Mountain Bikes,295,56,30240,11,153,mid-range,2013-12-26,56,56,540.0,540,2749,16520,13720,45.370370370370374,Lower Revenue / High Margin
+Mountain-500 Black- 52,110,Bikes,Mountain Bikes,295,41,22140,11,153,mid-range,2013-12-24,41,41,540.0,540,2012,12095,10045,45.370370370370374,Lower Revenue / High Margin
+Mountain-500 Silver- 40,111,Bikes,Mountain Bikes,308,45,25425,11,153,mid-range,2013-12-26,45,45,565.0,565,2311,13860,11565,45.48672566371681,Lower Revenue / High Margin
+Mountain-500 Silver- 42,112,Bikes,Mountain Bikes,308,45,25425,11,153,mid-range,2013-12-27,45,45,565.0,565,2311,13860,11565,45.48672566371681,Lower Revenue / High Margin
+Mountain-500 Silver- 44,113,Bikes,Mountain Bikes,308,39,22035,12,153,mid-range,2013-12-25,39,39,565.0,565,1836,12012,10023,45.48672566371681,Lower Revenue / High Margin
+Mountain-500 Silver- 48,114,Bikes,Mountain Bikes,308,50,28250,11,153,mid-range,2013-12-27,50,50,565.0,565,2568,15400,12850,45.48672566371681,Lower Revenue / High Margin
+Mountain-500 Silver- 52,115,Bikes,Mountain Bikes,308,48,27120,11,153,mid-range,2013-12-25,48,48,565.0,565,2465,14784,12336,45.48672566371681,Lower Revenue / High Margin
+Patch Kit/8 Patches,259,Accessories,Tires and Tubes,1,3191,6382,13,152,low-performer,2014-01-28,2950,3191,2.0,2,490,3191,3191,50.0,Lower Revenue / High Margin
+Racing Socks- L,279,Clothing,Socks,3,270,2430,13,152,low-performer,2014-01-27,269,270,9.0,9,186,810,1620,66.66666666666667,Lower Revenue / High Margin
+Racing Socks- M,280,Clothing,Socks,3,298,2682,12,152,low-performer,2014-01-28,295,298,9.0,9,223,894,1788,66.66666666666667,Lower Revenue / High Margin
+Road Bottle Cage,105,Accessories,Bottles and Cages,3,1712,15408,13,152,mid-range,2014-01-25,1700,1712,9.0,9,1185,5136,10272,66.66666666666667,Lower Revenue / High Margin
+Road Tire Tube,290,Accessories,Tires and Tubes,1,2376,9504,13,152,low-performer,2014-01-28,2226,2376,4.0,4,731,2376,7128,75.0,Lower Revenue / High Margin
+Road-150 Red- 44,16,Bikes,Road Bikes,2171,281,1005418,12,177,high-performer,2011-12-28,281,281,3578.0,3578,83784,610051,395367,39.3236444941308,High Revenue / High Margin
+Road-150 Red- 48,17,Bikes,Road Bikes,2171,337,1205786,12,177,high-performer,2011-12-28,337,337,3578.0,3578,100482,731627,474159,39.3236444941308,High Revenue / High Margin
+Road-150 Red- 52,18,Bikes,Road Bikes,2171,302,1080556,12,177,high-performer,2011-12-27,302,302,3578.0,3578,90046,655642,424914,39.3236444941308,High Revenue / High Margin
+Road-150 Red- 56,19,Bikes,Road Bikes,2171,295,1055510,12,177,high-performer,2011-12-27,295,295,3578.0,3578,87959,640445,415065,39.3236444941308,High Revenue / High Margin
+Road-150 Red- 62,20,Bikes,Road Bikes,2171,336,1202208,12,177,high-performer,2011-12-28,336,336,3578.0,3578,100184,729456,472752,39.3236444941308,High Revenue / High Margin
+Road-250 Black- 44,139,Bikes,Road Bikes,1555,271,628384,24,153,high-performer,2013-12-27,266,271,2318.8,2318,26182,421405,206979,32.93829887457351,High Revenue / Lower Margin
+Road-250 Black- 48,140,Bikes,Road Bikes,1555,298,691213,23,153,high-performer,2013-12-28,289,298,2319.5,2319,30052,463390,227823,32.959883567004674,High Revenue / Lower Margin
+Road-250 Black- 52,141,Bikes,Road Bikes,1555,319,734425,24,153,high-performer,2013-12-25,312,319,2302.3,2302,30601,496045,238380,32.458045409674234,High Revenue / Lower Margin
+Road-250 Black- 58,142,Bikes,Road Bikes,1555,270,622026,24,153,high-performer,2013-12-26,265,270,2303.8,2303,25917,419850,202176,32.50282142547096,High Revenue / Lower Margin
+Road-250 Red- 44,48,Bikes,Road Bikes,1519,144,351792,12,165,high-performer,2012-12-25,144,144,2443.0,2443,29316,218736,133056,37.82234957020057,High Revenue / Lower Margin
+Road-250 Red- 48,49,Bikes,Road Bikes,1519,162,395766,12,165,high-performer,2012-12-24,162,162,2443.0,2443,32980,246078,149688,37.82234957020057,High Revenue / Lower Margin
+Road-250 Red- 52,50,Bikes,Road Bikes,1519,133,324919,12,165,high-performer,2012-12-25,133,133,2443.0,2443,27076,202027,122892,37.82234957020057,High Revenue / Lower Margin
+Road-250 Red- 58,143,Bikes,Road Bikes,1555,306,702666,24,153,high-performer,2013-12-27,301,306,2296.3,2296,29277,475830,226836,32.28219381612317,High Revenue / Lower Margin
+Road-350-W Yellow- 40,135,Bikes,Road Bikes,1083,246,418446,12,153,high-performer,2013-12-27,246,246,1701.0,1701,34870,266418,152028,36.331569664903,High Revenue / Lower Margin
+Road-350-W Yellow- 42,136,Bikes,Road Bikes,1083,235,399735,12,153,high-performer,2013-12-27,235,235,1701.0,1701,33311,254505,145230,36.331569664903,High Revenue / Lower Margin
+Road-350-W Yellow- 44,137,Bikes,Road Bikes,1083,216,367416,11,153,high-performer,2013-12-27,216,216,1701.0,1701,33401,233928,133488,36.331569664903,High Revenue / Lower Margin
+Road-350-W Yellow- 48,138,Bikes,Road Bikes,1083,232,394632,12,153,high-performer,2013-12-25,232,232,1701.0,1701,32886,251256,143376,36.331569664903,High Revenue / Lower Margin
+Road-550-W Yellow- 38,130,Bikes,Road Bikes,713,270,293760,24,153,high-performer,2013-12-26,267,270,1088.0,1088,12240,192510,101250,34.466911764705884,High Revenue / Lower Margin
+Road-550-W Yellow- 40,131,Bikes,Road Bikes,713,266,289880,23,153,high-performer,2013-12-28,264,266,1089.8,1089,12603,189658,100222,34.573616668966466,High Revenue / Lower Margin
+Road-550-W Yellow- 42,132,Bikes,Road Bikes,713,306,334440,24,153,high-performer,2013-12-26,303,306,1092.9,1092,13935,218178,116262,34.76318622174381,High Revenue / Lower Margin
+Road-550-W Yellow- 44,133,Bikes,Road Bikes,713,287,312200,23,153,high-performer,2013-12-27,286,287,1087.8,1087,13573,204631,107569,34.455156950672645,High Revenue / Lower Margin
+Road-550-W Yellow- 48,134,Bikes,Road Bikes,713,261,283680,22,153,high-performer,2013-12-27,258,261,1086.9,1086,12894,186093,97587,34.400380710659896,High Revenue / Lower Margin
+Road-650 Black- 44,36,Bikes,Road Bikes,487,63,47565,23,165,mid-range,2012-12-26,63,63,755.0,755,2068,30681,16884,35.496688741721854,Lower Revenue / Lower Margin
+Road-650 Black- 48,37,Bikes,Road Bikes,487,60,45552,21,165,mid-range,2012-12-25,60,60,759.2,759,2169,29220,16332,35.85353003161222,Lower Revenue / Lower Margin
+Road-650 Black- 52,38,Bikes,Road Bikes,487,89,66915,23,165,high-performer,2012-12-19,89,89,751.9,751,2909,43343,23572,35.226780243592614,High Revenue / Lower Margin
+Road-650 Black- 58,39,Bikes,Road Bikes,487,76,57996,23,165,high-performer,2012-12-18,76,76,763.1,763,2521,37012,20984,36.1818056417684,High Revenue / Lower Margin
+Road-650 Black- 60,40,Bikes,Road Bikes,487,76,57156,22,165,high-performer,2012-12-12,76,76,752.1,752,2598,37012,20144,35.243893904401986,High Revenue / Lower Margin
+Road-650 Black- 62,41,Bikes,Road Bikes,487,65,49047,24,165,mid-range,2012-12-18,65,65,754.6,754,2043,31655,17392,35.45986502742267,Lower Revenue / Lower Margin
+Road-650 Red- 44,42,Bikes,Road Bikes,487,72,54528,23,165,high-performer,2012-12-25,72,72,757.3,757,2370,35064,19464,35.695422535211264,Lower Revenue / Lower Margin
+Road-650 Red- 48,43,Bikes,Road Bikes,487,88,66720,23,165,high-performer,2012-12-27,88,88,758.2,758,2900,42856,23864,35.7673860911271,High Revenue / Lower Margin
+Road-650 Red- 52,44,Bikes,Road Bikes,487,61,46083,24,165,mid-range,2012-12-21,61,61,755.5,755,1920,29707,16376,35.535880910531,Lower Revenue / Lower Margin
+Road-650 Red- 58,45,Bikes,Road Bikes,487,74,56346,22,165,high-performer,2012-12-18,74,74,761.4,761,2561,36038,20308,36.041600113583925,High Revenue / Lower Margin
+Road-650 Red- 60,46,Bikes,Road Bikes,487,53,40071,23,165,mid-range,2012-12-23,53,53,756.1,756,1742,25811,14260,35.58683337076689,Lower Revenue / Lower Margin
+Road-650 Red- 62,47,Bikes,Road Bikes,487,75,57381,23,165,high-performer,2012-12-05,75,75,765.1,765,2494,36525,20856,36.34652585350552,High Revenue / Lower Margin
+Road-750 Black- 44,126,Bikes,Road Bikes,344,360,194400,12,153,high-performer,2013-12-28,360,360,540.0,540,16200,123840,70560,36.2962962962963,High Revenue / Lower Margin
+Road-750 Black- 48,127,Bikes,Road Bikes,344,363,196020,12,153,high-performer,2013-12-28,363,363,540.0,540,16335,124872,71148,36.2962962962963,High Revenue / Lower Margin
+Road-750 Black- 52,128,Bikes,Road Bikes,344,386,208440,12,153,high-performer,2013-12-28,386,386,540.0,540,17370,132784,75656,36.2962962962963,High Revenue / Lower Margin
+Road-750 Black- 58,129,Bikes,Road Bikes,344,334,180360,12,153,high-performer,2013-12-28,334,334,540.0,540,15030,114896,65464,36.2962962962963,High Revenue / Lower Margin
+Short-Sleeve Classic Jersey- L,275,Clothing,Jerseys,42,374,20196,13,152,mid-range,2014-01-26,372,374,54.0,54,1553,15708,4488,22.22222222222222,Lower Revenue / Lower Margin
+Short-Sleeve Classic Jersey- M,276,Clothing,Jerseys,42,407,21978,13,152,mid-range,2014-01-27,404,407,54.0,54,1690,17094,4884,22.22222222222222,Lower Revenue / Lower Margin
+Short-Sleeve Classic Jersey- S,277,Clothing,Jerseys,42,406,21924,13,152,mid-range,2014-01-28,402,406,54.0,54,1686,17052,4872,22.22222222222222,Lower Revenue / Lower Margin
+Short-Sleeve Classic Jersey- XL,278,Clothing,Jerseys,42,409,22086,12,152,mid-range,2014-01-28,405,409,54.0,54,1840,17178,4908,22.22222222222222,Lower Revenue / Lower Margin
+Sport-100 Helmet- Black,244,Accessories,Helmets,13,2085,72975,13,152,high-performer,2014-01-28,2024,2085,35.0,35,5613,27105,45870,62.857142857142854,High Revenue / High Margin
+Sport-100 Helmet- Blue,245,Accessories,Helmets,13,2125,74410,13,152,high-performer,2014-01-28,2050,2126,35.0,35,5723,27638,46772,62.857142857142854,High Revenue / High Margin
+Sport-100 Helmet- Red,246,Accessories,Helmets,13,2230,78050,13,152,high-performer,2014-01-28,2147,2230,35.0,35,6003,28990,49060,62.857142857142854,High Revenue / High Margin
+Touring Tire,288,Accessories,Tires and Tubes,11,935,27115,13,152,mid-range,2014-01-25,920,935,29.0,29,2085,10285,16830,62.06896551724138,Lower Revenue / High Margin
+Touring Tire Tube,291,Accessories,Tires and Tubes,2,1488,7440,13,152,low-performer,2014-01-28,1411,1488,5.0,5,572,2976,4464,60.0,Lower Revenue / High Margin
+Touring-1000 Blue- 46,158,Bikes,Touring Bikes,1482,177,421968,12,153,high-performer,2013-12-23,177,177,2384.0,2384,35164,262314,159654,37.83557046979866,High Revenue / Lower Margin
+Touring-1000 Blue- 50,159,Bikes,Touring Bikes,1482,150,357600,12,153,high-performer,2013-12-28,150,150,2384.0,2384,29800,222300,135300,37.83557046979866,High Revenue / Lower Margin
+Touring-1000 Blue- 54,160,Bikes,Touring Bikes,1482,160,381440,11,153,high-performer,2013-12-27,160,160,2384.0,2384,34676,237120,144320,37.83557046979866,High Revenue / Lower Margin
+Touring-1000 Blue- 60,161,Bikes,Touring Bikes,1482,147,350448,12,153,high-performer,2013-12-27,147,147,2384.0,2384,29204,217854,132594,37.83557046979866,High Revenue / Lower Margin
+Touring-1000 Yellow- 46,162,Bikes,Touring Bikes,1482,172,410048,11,153,high-performer,2013-12-28,170,172,2384.0,2384,37277,254904,155144,37.83557046979866,High Revenue / Lower Margin
+Touring-1000 Yellow- 50,163,Bikes,Touring Bikes,1482,151,359984,12,153,high-performer,2013-12-23,150,151,2384.0,2384,29998,223782,136202,37.83557046979866,High Revenue / Lower Margin
+Touring-1000 Yellow- 54,164,Bikes,Touring Bikes,1482,158,376672,11,153,high-performer,2013-12-27,158,158,2384.0,2384,34242,234156,142516,37.83557046979866,High Revenue / Lower Margin
+Touring-1000 Yellow- 60,165,Bikes,Touring Bikes,1482,140,333760,11,153,high-performer,2013-12-23,140,140,2384.0,2384,30341,207480,126280,37.83557046979866,High Revenue / Lower Margin
+Touring-2000 Blue- 46,154,Bikes,Touring Bikes,755,97,117855,12,153,high-performer,2013-12-27,97,97,1215.0,1215,9821,73235,44620,37.86008230452675,High Revenue / Lower Margin
+Touring-2000 Blue- 50,155,Bikes,Touring Bikes,755,106,128790,12,153,high-performer,2013-12-27,106,106,1215.0,1215,10732,80030,48760,37.86008230452675,High Revenue / Lower Margin
+Touring-2000 Blue- 54,156,Bikes,Touring Bikes,755,88,106920,11,153,high-performer,2013-12-28,88,88,1215.0,1215,9720,66440,40480,37.86008230452675,High Revenue / Lower Margin
+Touring-2000 Blue- 60,157,Bikes,Touring Bikes,755,81,98415,12,153,high-performer,2013-12-28,81,81,1215.0,1215,8201,61155,37260,37.86008230452675,High Revenue / Lower Margin
+Touring-3000 Blue- 44,144,Bikes,Touring Bikes,461,53,39326,11,153,mid-range,2013-12-28,53,53,742.0,742,3575,24433,14893,37.870619946091644,Lower Revenue / Lower Margin
+Touring-3000 Blue- 50,145,Bikes,Touring Bikes,461,48,35616,11,153,mid-range,2013-12-23,48,48,742.0,742,3237,22128,13488,37.870619946091644,Lower Revenue / Lower Margin
+Touring-3000 Blue- 54,146,Bikes,Touring Bikes,461,55,40810,12,153,mid-range,2013-12-17,55,55,742.0,742,3400,25355,15455,37.870619946091644,Lower Revenue / Lower Margin
+Touring-3000 Blue- 58,147,Bikes,Touring Bikes,461,57,42294,11,153,mid-range,2013-12-27,57,57,742.0,742,3844,26277,16017,37.870619946091644,Lower Revenue / Lower Margin
+Touring-3000 Blue- 62,148,Bikes,Touring Bikes,461,64,47488,11,153,mid-range,2013-12-23,64,64,742.0,742,4317,29504,17984,37.870619946091644,Lower Revenue / Lower Margin
+Touring-3000 Yellow- 44,149,Bikes,Touring Bikes,461,59,43778,11,153,mid-range,2013-12-28,59,59,742.0,742,3979,27199,16579,37.870619946091644,Lower Revenue / Lower Margin
+Touring-3000 Yellow- 50,150,Bikes,Touring Bikes,461,59,43778,11,153,mid-range,2013-12-27,59,59,742.0,742,3979,27199,16579,37.870619946091644,Lower Revenue / Lower Margin
+Touring-3000 Yellow- 54,151,Bikes,Touring Bikes,461,48,35616,11,153,mid-range,2013-12-09,48,48,742.0,742,3237,22128,13488,37.870619946091644,Lower Revenue / Lower Margin
+Touring-3000 Yellow- 58,152,Bikes,Touring Bikes,461,47,34874,12,153,mid-range,2013-12-27,47,47,742.0,742,2906,21667,13207,37.870619946091644,Lower Revenue / Lower Margin
+Touring-3000 Yellow- 62,153,Bikes,Touring Bikes,461,50,37100,11,153,mid-range,2013-12-26,50,50,742.0,742,3372,23050,14050,37.870619946091644,Lower Revenue / Lower Margin
+Water Bottle - 30 oz.,295,Accessories,Bottles and Cages,2,4244,21245,13,152,mid-range,2014-01-28,4073,4249,5.0,5,1634,8498,12747,60.0,Lower Revenue / High Margin
+Women's Mountain Shorts- L,272,Clothing,Shorts,26,363,25410,12,152,mid-range,2014-01-28,363,363,70.0,70,2117,9438,15972,62.857142857142854,Lower Revenue / High Margin
+Women's Mountain Shorts- M,273,Clothing,Shorts,26,352,24640,12,152,mid-range,2014-01-26,352,352,70.0,70,2053,9152,15488,62.857142857142854,Lower Revenue / High Margin
+Women's Mountain Shorts- S,274,Clothing,Shorts,26,304,21280,12,152,mid-range,2014-01-28,304,304,70.0,70,1773,7904,13376,62.857142857142854,Lower Revenue / High Margin
