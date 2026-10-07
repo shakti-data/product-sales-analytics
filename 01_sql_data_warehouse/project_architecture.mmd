@@ -1,0 +1,134 @@
+flowchart TB
+
+    %% =========================================================
+    %% SOURCE SYSTEMS
+    %% =========================================================
+
+    CRM["CRM Source Data
+    ├─ cust_info.csv
+    ├─ prd_info.csv
+    └─ sales_details.csv"]
+
+    ERP["ERP Source Data
+    ├─ CUST_AZ12.csv
+    ├─ LOC_A101.csv
+    └─ PX_CAT_G1V2.csv"]
+
+    %% =========================================================
+    %% BRONZE LAYER
+    %% =========================================================
+
+    BRONZE["BRONZE LAYER
+    Raw Source Data"]
+
+    B1["bronze.crm_cust_info"]
+    B2["bronze.crm_prd_info"]
+    B3["bronze.crm_sales_details"]
+    B4["bronze.erp_cust_az12"]
+    B5["bronze.erp_loc_a101"]
+    B6["bronze.erp_px_cat_g1v2"]
+
+    CRM --> BRONZE
+    ERP --> BRONZE
+
+    BRONZE --> B1
+    BRONZE --> B2
+    BRONZE --> B3
+    BRONZE --> B4
+    BRONZE --> B5
+    BRONZE --> B6
+
+    %% =========================================================
+    %% SILVER LAYER
+    %% =========================================================
+
+    SILVER["SILVER LAYER
+    Cleaned & Transformed Data"]
+
+    S1["silver.crm_cust_info"]
+    S2["silver.crm_prd_info"]
+    S3["silver.crm_sales_details"]
+    S4["silver.erp_cust_az12"]
+    S5["silver.erp_loc_a101"]
+    S6["silver.erp_px_cat_g1v2"]
+
+    B1 --> S1
+    B2 --> S2
+    B3 --> S3
+    B4 --> S4
+    B5 --> S5
+    B6 --> S6
+
+    %% =========================================================
+    %% GOLD LAYER
+    %% =========================================================
+
+    GOLD["GOLD LAYER
+    Business-Ready Dimensional Model"]
+
+    DIM_C["gold.dim_customers
+    Customer Dimension"]
+
+    DIM_P["gold.dim_products
+    Product Dimension"]
+
+    FACT["gold.fact_sales
+    Sales Fact"]
+
+    S1 --> DIM_C
+    S4 --> DIM_C
+    S5 --> DIM_C
+
+    S2 --> DIM_P
+    S6 --> DIM_P
+
+    S3 --> FACT
+    DIM_C --> FACT
+    DIM_P --> FACT
+
+    %% =========================================================
+    %% REPORTING
+    %% =========================================================
+
+    CUSTOMER_REPORT["gold.report_customers
+    Customer Analytics"]
+
+    PRODUCT_REPORT["gold.report_products
+    Product Analytics"]
+
+    FACT --> CUSTOMER_REPORT
+    DIM_C --> CUSTOMER_REPORT
+
+    FACT --> PRODUCT_REPORT
+    DIM_P --> PRODUCT_REPORT
+
+    %% =========================================================
+    %% ANALYTICS
+    %% =========================================================
+
+    ANALYTICS["SQL Analytics
+    ├─ Database Exploration
+    ├─ Dimensions & Measures
+    ├─ Date Range Analysis
+    ├─ Magnitude Analysis
+    ├─ Ranking Analysis
+    ├─ Change Over Time
+    ├─ Cumulative Analysis
+    ├─ Performance Analysis
+    ├─ Data Segmentation
+    └─ Part-to-Whole Analysis"]
+
+    DIM_C --> ANALYTICS
+    DIM_P --> ANALYTICS
+    FACT --> ANALYTICS
+
+    %% =========================================================
+    %% DATA QUALITY
+    %% =========================================================
+
+    QUALITY["Data Quality Checks
+    ├─ quality_checks_silver.sql
+    └─ quality_checks_gold.sql"]
+
+    SILVER -. validation .-> QUALITY
+    GOLD -. validation .-> QUALITY
