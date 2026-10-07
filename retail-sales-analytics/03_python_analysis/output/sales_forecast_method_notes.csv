@@ -1,4 +1,0 @@
-metric,value
-forecast_method,3-month moving-average baseline
-baseline_months,"2013-10, 2013-11, 2013-12"
-excluded_partial_month,2014-01

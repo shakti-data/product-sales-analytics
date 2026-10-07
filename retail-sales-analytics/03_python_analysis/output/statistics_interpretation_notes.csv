@@ -1,5 +1,0 @@
-topic,rule
-p-value,Evidence against H0 under assumptions
-confidence_interval,Range describing uncertainty around an estimate
-effect_size,Magnitude of relationship/difference
-causality,Correlation or observational tests do not automatically prove causality
