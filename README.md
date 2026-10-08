@@ -186,8 +186,8 @@ The workbook and the `.pbix` file are included. They read the CSV files in `03_p
 
 ## Acknowledgements
 
-The sample CRM/ERP data and the Bronze / Silver / Gold warehouse pattern are based on the open-source [SQL Data Warehouse Project](https://github.com/DataWithBaraa/sql-data-warehouse-project) by Data With Baraa (MIT License). The Python analysis, Excel report and Power BI dashboard are my own work.
+The sample CRM/ERP data and the Bronze / Silver / Gold warehouse pattern are based on the open-source [SQL Data Warehouse Project](https://github.com/DataWithBaraa/sql-data-warehouse-project) by Data With Baraa (MIT License). SQL Analitics, The Python analysis, Excel report and Power BI dashboard are my own work.
 
 ## Author
 
-Shakti — Jaipur, India
+Shakti — Jaipur, India.
